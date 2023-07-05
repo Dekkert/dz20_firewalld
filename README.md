@@ -1,4 +1,4 @@
-# Lesson29 - Фильтрация трафика - firewalld, iptables
+#Фильтрация трафика - firewalld, iptables
 
 #Задание:
 
