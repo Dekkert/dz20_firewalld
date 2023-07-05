@@ -1,6 +1,6 @@
-#Фильтрация трафика - firewalld, iptables
+#  Фильтрация трафика - firewalld, iptables
 
-#Задание:
+Задание:
 
 1. Реализовать knocking port
   centralRouter может попасть на ssh inetrRouter через knock скрипт
@@ -11,7 +11,7 @@
 
 Формат сдачи ДЗ - vagrant + ansible
 
-#Выполнение:
+Выполнение:
 
 Для решения использовались статьи:
 
